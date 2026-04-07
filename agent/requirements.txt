@@ -1,0 +1,8 @@
+websockets==13.1
+psutil==6.1.0
+pyautogui==0.9.54
+Pillow==11.0.0
+python-dotenv==1.0.1
+screen-brightness-control==0.23.0
+pycaw==20240210
+comtypes==1.4.6
